@@ -1,9 +1,5 @@
 ## COMING SOON ...
 
-
-
-
-The first public version will be released soon.  
-Documentation, datasets, and baseline models will be shared progressively.
+This project is currently under active development.
 
 Stay tuned.
