@@ -3,3 +3,14 @@
 This project is currently under active development.
 
 Stay tuned.
+
+## Key Features:
+
+* Training via parameter-efficient fine-tuning LLMs
+* CPU-friendly inference (no GPU required)
+* Designed for local & offline usage
+
+## Demo
+- `Version 1.0 (14/01/2026)`
+
+![Demo GIF](assets/VietSOC-demo.gif)
