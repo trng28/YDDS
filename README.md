@@ -13,4 +13,4 @@ Stay tuned.
 ## Demo
 - `Version 1.0 (14/01/2026)`
 
-![Demo GIF](assets/VietSOC-demo.gif)
+![Demo GIF](assets/demo-1.gif)
